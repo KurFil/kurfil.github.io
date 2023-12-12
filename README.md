@@ -1,1 +1,1 @@
-# Doliczanie do urodzin!
+# Odliczanie do urodzin!
